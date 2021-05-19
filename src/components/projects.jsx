@@ -82,10 +82,10 @@ export default class Projects extends Component {
 										<div className="con">
 											<h3><a href="work.html">Tech-Blog</a></h3>
 											<span>Website</span>
-											<p>On this project is to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. You’ll build this site completely from scratch and deploy it to Heroku. Your app will follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.</p>
+											<p>On this project is to build a CMS-style blog site similar to a Wordpress site. The app follows MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.</p>
 											<p className="icon">
-											<span><a href="https://warm-stream-03469.herokuapp.com/" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> website</a></span>
-												<span><a href="https://gentle-oasis-28025.herokuapp.com/" target="_blank" rel="noopener noreferrer" ><i className="icon-github" /> repo</a></span>
+											<span><a href="https://gentle-oasis-28025.herokuapp.com/" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> website</a></span>
+												<span><a href="https://github.com/eloy522752868/tech-blog/" target="_blank" rel="noopener noreferrer" ><i className="icon-github" /> repo</a></span>
 											</p>
 										</div>
 									</div>
