@@ -17,10 +17,10 @@ export default class Projects extends Component {
 								<div  className="project" style={{backgroundImage: 'url(images/EmployeeManagment.png'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="https://eloy522752868.github.io/employee_directory/">Employees List</a></h3>
 											<span>Website</span>
 											<p className="icon">
-												<span><a href="https://eloy522752868.github.io/employee_directory/"><i className="icon-share3" /></a></span>
+												<span><a href="https://eloy522752868.github.io/employee_directory/" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> website</a></span>
+												<span><a href="https://github.com/eloy522752868/employee_directory" target="_blank"  rel="noopener noreferrer" ><i className="icon-github" /> repo</a></span>
 											</p>
 										</div>
 									</div>
@@ -31,9 +31,10 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">workout-tracker</a></h3>
-											<span>Animation</span>
+											<span>Website</span>
 											<p className="icon">
-												<span><a href="https://github.com/eloy522752868/workout-tracker"><i className="icon-share3" /></a></span>
+												<span><a href="https://murmuring-forest-89074.herokuapp.com/?id=6095a18e3ba332001518487c" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> website</a></span>
+												<span><a href="https://github.com/eloy522752868/workout-tracker" target="_blank" rel="noopener noreferrer"> <i className="icon-github" /> repo</a></span>
 											</p>
 										</div>
 									</div>
@@ -46,7 +47,9 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Online Offline Budget Trackers</a></h3>
 											<span>Application</span>
 											<p className="icon">
-												<span><a href="https://github.com/eloy522752868/Online-Offline-Budget-Trackers"><i className="icon-share3" /></a></span>
+												<span><a href="https://github.com/eloy522752868/Online-Offline-Budget-Trackers" target="_blank" ><i className="icon-share3" /></a></span>
+												<span><a href="https://eloy522752868.github.io/employee_directory/" target="_blank" rel="noopener noreferrer" ><i className="icon-share3" /> website</a></span>
+												<span><a href="https://github.com/eloy522752868/employee_directory" target="_blank"  rel="noopener noreferrer"><i className="icon-github" /> repo</a></span>
 											</p>
 										</div>
 									</div>
@@ -59,7 +62,9 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Exershare</a></h3>
 											<span>Application</span>
 											<p className="icon">
-												<span><a href="https://github.com/eloy522752868/exershare"><i className="icon-share3" /></a></span>
+												<span><a href="https://github.com/eloy522752868/exershare" target="_blank"  rel="noopener noreferrer" ><i className="icon-share3" /></a></span>
+												<span><a href="https://eloy522752868.github.io/employee_directory/" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> website</a></span>
+												<span><a href="https://github.com/eloy522752868/employee_directory" target="_blank" rel="noopener noreferrer" ><i className="icon-github" /> repo</a></span>
 											</p>
 										</div>
 									</div>
@@ -72,7 +77,7 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Tech-Blog</a></h3>
 											<span>Website</span>
 											<p className="icon">
-												<span><a href="https://github.com/eloy522752868/tech-blog"><i className="icon-share3" /></a></span>
+												<span><a href="https://github.com/eloy522752868/tech-blog" target="_blank" ><i className="icon-share3" /></a></span>
 											</p>
 										</div>
 									</div>
@@ -85,7 +90,7 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Note Taker</a></h3>
 											<span>Web Design</span>
 											<p className="icon">
-												<span><a href="https://github.com/eloy522752868/note-taker"><i className="icon-share3" /></a></span>
+												<span><a href="https://github.com/eloy522752868/note-taker"target="_blank" > <i className="icon-share3" /></a></span>
 											</p>
 										</div>
 									</div>

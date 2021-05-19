@@ -14,7 +14,7 @@ export default class Timeline extends Component {
               
                       </div>
                       <div className="timeline-label">
-                        <h4>📝Resume details <a class="nav-link" id = "resume-detail" href="https://eloy522752868.github.io/portfolio-from-scratch/assets/images/Eloy%20Gonzalez%202021%20Resume.pdf" target="_blank">click here</a></h4>
+                      <h4><span  role="img" ><i class="icon-file"></i> </span>Resume details <a className="resume" id = "resume-detail" href="https://eloy522752868.github.io/portfolio-from-scratch/assets/images/Eloy%20Gonzalez%202021%20Resume.pdf" target="_blank" rel="noopener noreferrer">click here</a></h4>
                       </div>
                
               </div>
