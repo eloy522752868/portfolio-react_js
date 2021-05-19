@@ -4,7 +4,6 @@
 
 1.  [Description](#description)
 1.  [Installation](#installation)
-1.  [Usage](#usage)
 1.  [Screenshots](#screenshots)
 1.  [Details](#details)
 1.  [Contributing](#contributing)
@@ -20,7 +19,7 @@ npm i
 
 ### Screenshot
 
-![Screenshot](./images/portfolio.png)
+![Screenshot](/images/portfolio.png)
 
 ### Details
 
