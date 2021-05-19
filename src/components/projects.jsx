@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
-
+//Modified By: Eloy Gonzalez
+//Modified date: 05/18/2021
+//This is project and has my current projects.
 export default class Projects extends Component {
   render() {
     return (
@@ -47,9 +49,8 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Online Offline Budget Trackers</a></h3>
 											<span>Application</span>
 											<p className="icon">
-												<span><a href="https://github.com/eloy522752868/Online-Offline-Budget-Trackers" target="_blank" ><i className="icon-share3" /></a></span>
-												<span><a href="https://eloy522752868.github.io/employee_directory/" target="_blank" rel="noopener noreferrer" ><i className="icon-share3" /> website</a></span>
-												<span><a href="https://github.com/eloy522752868/employee_directory" target="_blank"  rel="noopener noreferrer"><i className="icon-github" /> repo</a></span>
+												<span><a href="https://frozen-chamber-22128.herokuapp.com/" target="_blank" rel="noopener noreferrer" ><i className="icon-share3" /> website</a></span>
+												<span><a href="https://github.com/eloy522752868/Online-Offline-Budget-Trackersy" target="_blank"  rel="noopener noreferrer"><i className="icon-github" /> repo</a></span>
 											</p>
 										</div>
 									</div>
@@ -62,9 +63,8 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Exershare</a></h3>
 											<span>Application</span>
 											<p className="icon">
-												<span><a href="https://github.com/eloy522752868/exershare" target="_blank"  rel="noopener noreferrer" ><i className="icon-share3" /></a></span>
-												<span><a href="https://eloy522752868.github.io/employee_directory/" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> website</a></span>
-												<span><a href="https://github.com/eloy522752868/employee_directory" target="_blank" rel="noopener noreferrer" ><i className="icon-github" /> repo</a></span>
+												<span><a href="https://warm-stream-03469.herokuapp.com/" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> website</a></span>
+												<span><a href="https://github.com/eloy522752868/exershare" target="_blank" rel="noopener noreferrer" ><i className="icon-github" /> repo</a></span>
 											</p>
 										</div>
 									</div>
@@ -77,7 +77,8 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Tech-Blog</a></h3>
 											<span>Website</span>
 											<p className="icon">
-												<span><a href="https://github.com/eloy522752868/tech-blog" target="_blank" ><i className="icon-share3" /></a></span>
+											<span><a href="https://warm-stream-03469.herokuapp.com/" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> website</a></span>
+												<span><a href="https://github.com/eloy522752868/exershare" target="_blank" rel="noopener noreferrer" ><i className="icon-github" /> repo</a></span>
 											</p>
 										</div>
 									</div>

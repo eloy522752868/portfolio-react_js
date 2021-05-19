@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
-
+//Modified By: Eloy Gonzalez
+//Modified date: 05/18/2021
+//This is timeline, includes my resume and recent jobs.
 export default class Timeline extends Component {
   render() {
     return (

@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
-
+//Modified By: Eloy Gonzalez
+//Modified date: 05/18/2021
+//This sidebar helps me to able organize the site better. Also my footer is in the siderbar. Did need the to add a footer component.
 export default class Sidebar extends Component {
   render() {
     return (
@@ -7,10 +9,12 @@ export default class Sidebar extends Component {
         <div>
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
-            <div className="text-center">
-              <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
+            <div className="text-center ">
+              <div className="author-img " style={{backgroundImage: 'url(images/about.jpg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Eloy Gonzalez</a></h1>
               <span className="email"><i className="icon-mail"></i> eloy522752@gmail.com</span>
+              <span className="email"><i className="icon-phone"></i> 404-993-66-98</span>
+              <div></div>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">

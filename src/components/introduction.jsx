@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
-
+//Modified By: Eloy Gonzalez
+//Modified date: 05/18/2021
+//This is introduction I added a slider .
 export default class Introduction extends Component {
   render() {
     return (

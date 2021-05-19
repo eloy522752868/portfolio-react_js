@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
-
+//Modified By: Eloy Gonzalez
+//Modified date: 05/18/2021
+//This is the about section about me and also my highlights div.
 export default class About extends Component {
   render() {
     return (
