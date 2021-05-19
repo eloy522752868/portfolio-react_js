@@ -19,7 +19,7 @@ npm i
 
 ### Screenshot
 
-![Screenshot](/images/portfolio.png)
+![Screenshot](./public/images/portfolio.png)
 
 ### Details
 
