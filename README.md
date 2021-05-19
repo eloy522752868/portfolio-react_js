@@ -38,7 +38,7 @@ Github Repo link:
 
 Web page :
 
-[Link](https://eloy522752868.github.io/portfolio-react/)
+[Link](https://eloy522752868.github.io/portfolio-react_js/)
 
 ## Contributing
 
