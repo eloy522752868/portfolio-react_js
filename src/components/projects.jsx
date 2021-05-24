@@ -16,6 +16,21 @@ export default class Projects extends Component {
 							</div>
 						</div>
 						<div className="row">
+						<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<div className="project" style={{backgroundImage: 'url(https://wallsdesk.com/wp-content/uploads/2016/11/Google-Images.jpg)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3><a href="work.html">google-books-search</a></h3>
+											<span>Website</span>
+											<p>In this activity, I create a new React-based Google Books Search app. It required you to create React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. Also use Node, Express and MongoDB so that users can save books to review or purchase later.</p>
+											<p className="icon">
+												<span><a href="https://eg-google-books-search.herokuapp.com/" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> website</a></span>
+												<span><a href="https://github.com/eloy522752868/google-books-search" target="_blank" rel="noopener noreferrer"> <i className="icon-github" /> repo</a></span>
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 								<div  className="project" style={{backgroundImage: 'url(images/EmployeeManagment.png'}}>
 									<div className="desc">
@@ -26,21 +41,6 @@ export default class Projects extends Component {
 											<p className="icon">
 												<span><a href="https://eloy522752868.github.io/employee_directory/" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> website</a></span>
 												<span><a href="https://github.com/eloy522752868/employee_directory" target="_blank"  rel="noopener noreferrer" ><i className="icon-github" /> repo</a></span>
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/FitnessTracker-.png)'}}>
-									<div className="desc">
-										<div className="con">
-											<h3><a href="work.html">workout-tracker</a></h3>
-											<span>Website</span>
-											<p>In this project you will be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.</p>
-											<p className="icon">
-												<span><a href="https://murmuring-forest-89074.herokuapp.com/?id=6095a18e3ba332001518487c" target="_blank" rel="noopener noreferrer"><i className="icon-share3" /> website</a></span>
-												<span><a href="https://github.com/eloy522752868/workout-tracker" target="_blank" rel="noopener noreferrer"> <i className="icon-github" /> repo</a></span>
 											</p>
 										</div>
 									</div>
